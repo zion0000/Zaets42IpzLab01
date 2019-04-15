@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Zaets42IpzLab01</string>
+    <string name="button_name">Press a button</string>
+    <string-array name="professions">
+        <item>Java Developer</item>
+        <item>Android Developer</item>
+        <item>Web Developer</item>
+        <item>Python Developer</item>
+        <item>C# Developer</item>
+    </string-array>
+    <string-array name="professions_desc">
+        <item>Modern browser UI technologies and frameworks (e.g. Angular, React, TypeScript, CSS preprocessors, etc.) is a strong advantage.
+        Working in an Agile, iterative development environment</item>
+        <item>Work with outside data sources and RESTful API’s. Use latest development techniques: pair programming, TDD, p2p reviews, etc;</item>
+        <item>You’ll design and develop new and challenging tasks on a dynamic and tech-savvy team.</item>
+        <item>Experience in building applications using the python ecosystem (Django, Flask, Bottle, etc.)</item>
+        <item>Add new features to the drawing engine and improve existing features related to rendering of graphic primitives and other 2D graphics tasks;</item>
+    </string-array>
+</resources>
